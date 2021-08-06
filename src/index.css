@@ -9,4 +9,11 @@ body {
 
 .App {
   text-align: center;
+  margin: 0 auto;
 }
+
+.main {
+  text-align: center;
+}
+
+
